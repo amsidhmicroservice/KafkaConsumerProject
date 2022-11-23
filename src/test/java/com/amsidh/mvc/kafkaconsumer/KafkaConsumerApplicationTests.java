@@ -1,10 +1,10 @@
-package com.amsidh.mvc.kafkaconsumerproject;
+package com.amsidh.mvc.kafkaconsumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KafkaConsumerProjectApplicationTests {
+class KafkaConsumerApplicationTests {
 
     @Test
     void contextLoads() {
